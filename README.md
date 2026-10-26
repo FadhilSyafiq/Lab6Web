@@ -177,5 +177,6 @@ Output:
    1. Nama tidak diisi.
    2. Email menggunakan format yang tidak valid.
    3. Usia kurang dari 17 tahun.
-   4. Semua input valid.      
+   4. Semua input valid.  
+       
    Pengujian tersebut memastikan program dapat menampilkan pesan yang sesuai dengan kondisi input.
