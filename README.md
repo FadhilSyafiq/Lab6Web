@@ -174,9 +174,8 @@ Output:
 6. classList.toggle() menambahkan class jika class tersebut belum ada dan menghapusnya jika sudah ada. Dengan demikian, tampilan elemen dapat diubah secara bergantian tanpa harus mengatur seluruh properti CSS melalui JavaScript.
 7. Contoh skenario pengujian adalah:
 
-1. Nama tidak diisi.
-2. Email menggunakan format yang tidak valid.
-3. Usia kurang dari 17 tahun.
-4. Semua input valid.
-
-Pengujian tersebut memastikan program dapat menampilkan pesan yang sesuai dengan kondisi input.
+   1. Nama tidak diisi.
+   2. Email menggunakan format yang tidak valid.
+   3. Usia kurang dari 17 tahun.
+   4. Semua input valid.      
+   Pengujian tersebut memastikan program dapat menampilkan pesan yang sesuai dengan kondisi input.
